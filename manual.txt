@@ -1,0 +1,17 @@
+<html>
+<p>Las herramientas de Bloc de notas de clase de OneNote para Windows 10 permiten a los profesores ahorrar tiempo y trabajar de manera más eficaz con sus blocs de notas de clase.</p>
+<br>
+<p>Entre las características se incluyen:</p>
+<br>
+<ol>
+   <li> Distribuir páginas o secciones nuevas a los alumnos de forma rápida y sencilla</li>
+
+    <li>Revisar el trabajo de estudiante secuencialmente (por ejemplo, tareas o cuestionarios)</li>
+
+    <li>Navegar y explorar fácilmente los blocs de notas de los alumnos a través de una lista de alumnos</li>
+
+   <li>Iniciar la funcionalidad de la aplicación Bloc de notas de clase</li>
+
+    <li>Proporcionar recursos útiles de desarrollo profesional y de la comunidad</li>
+</ol>
+</html>
